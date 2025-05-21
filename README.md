@@ -1,15 +1,15 @@
-# 📊 Analyse des Animes avec Tableau
+#  Analyse des Animes avec Tableau
 
 Ce projet propose une analyse visuelle approfondie de plus de 18 000 animes à l’aide de Tableau. L’objectif est de mieux comprendre les tendances de l’industrie, les préférences des fans, et les facteurs de succès des animes japonais.
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Identifier les animes les mieux notés et les plus populaires
 - Étudier l’évolution de l’animation japonaise dans le temps
 - Comparer les genres, types, statuts, studios et licences
 - Fournir un dashboard clair, interactif et intuitif
 
-## 🔍 Données utilisées
+##  Données utilisées
 
 Les données proviennent d’un fichier CSV importer depuis Kaggle contenant les informations suivantes pour chaque anime :
 - Titre, Score, Rank, Popularité
@@ -18,7 +18,7 @@ Les données proviennent d’un fichier CSV importer depuis Kaggle contenant les
 - Nombre de votes, nombre de membres, favoris
 - Description, noms alternatifs, etc.
 
-## 📈 Visualisations disponibles
+##  Visualisations disponibles
 
 Ce projet contient **13 feuilles** Tableau regroupées dans un dashboard interactif :
 
