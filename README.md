@@ -51,7 +51,7 @@ Ce projet contient **13 feuilles** Tableau regroupées dans un dashboard interac
 
 ##  Aperçu du dashboard
 
-![Aperçu](assets/dashboard-preview.png)
+![Aperçu](captures/analyse_par_genre.png)
 
 ##  Fichier
 
